@@ -4,4 +4,6 @@ config/.env
 .venv/
 *.bin
 *.gz
-
+.env
+*.env
+.env.*
